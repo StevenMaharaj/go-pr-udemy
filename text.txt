@@ -1,2 +1,2 @@
-some test
+SOME test
 some change 
